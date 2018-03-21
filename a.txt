@@ -3,3 +3,4 @@ This is file A
 with new line
 
 some more text
+more text
